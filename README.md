@@ -2,6 +2,8 @@
 
 **This is an unsolicited concept mockup built by [Brew City Devs](https://brewcitydevs.com) as a prospecting asset. It is not the official Divino Gelato Cafe website.**
 
+Live demo: **[brew-city-dev.github.io/divino-gelato-cafe-demo](https://brew-city-dev.github.io/divino-gelato-cafe-demo)**
+
 Live official site: **[divinogelatocafe.com](https://divinogelatocafe.com)**
 
 ---
